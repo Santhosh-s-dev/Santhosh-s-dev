@@ -9,8 +9,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Backend
 - 👯 I’m looking to collaborate on Open  -source web dev
 - 🤔 I’m looking for help with Java.DSA
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...I enjoy writing Shayari and listening to poetry
+### Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhosh-s-dev&show_icons=true&theme=radical)
 -->
