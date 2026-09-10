@@ -6,7 +6,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats-gray-three-58.vercel.app/api?username=Santhosh-s-dev&show_icons=true&theme=radial" />
+</p>
 ---
 
 ### 🚀 About Me
