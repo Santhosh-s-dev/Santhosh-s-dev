@@ -2,6 +2,8 @@
   <img width="100%" alt="Santhosh S" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B5CF6,50:EC4899,100:F59E0B&amp;height=200&amp;section=header&amp;text=Santhosh%20S&amp;fontSize=54&amp;fontColor=ffffff&amp;fontAlignY=38" />
 </p>
 
+<h3 align="center">Full Stack and Software Developer</h3>
+
 <p align="center">
   <img alt="Full Stack and Software Developer; Building with Java &amp; Spring Boot; 3rd Year CSE Student" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Full+Stack+and+Software+Developer;Building+with+Java+%26+Spring+Boot;3rd+Year+CSE+Student" />
 </p>
@@ -81,7 +83,6 @@
 | Certification | Issued By |
 | :---: | :---: |
 | **Agentic AI Foundations Associate** | Oracle |
-| **OCI Enterprise AI Professional** | Oracle |
 | **Programming in Java (Elite)** | NPTEL |
 | **Advanced Java** | FITA Academy |
 
